@@ -53,7 +53,7 @@ Trémaux's algorithm is a guaranteed maze-solving method that:
 3. Open index.html in your browser:
 
 
-##🎮 Usage
+## 🎮 Usage
 
 1. Select a maze from the dropdown menu.
 
