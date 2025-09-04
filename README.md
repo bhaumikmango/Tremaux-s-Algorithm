@@ -82,3 +82,19 @@ Trémaux's algorithm is a guaranteed maze-solving method that:
 - The Gridlock
 - The Cloverleaf
 - and more...
+
+
+## 📸 Screenshots
+
+
+
+## 🤝 Contributing
+
+Contributions, bug reports, and feature requests are welcome!
+Feel free to fork this repo and submit a pull request.
+
+
+## 👨‍💻 Author
+
+Developed by [Bhaumik Yadav] ✨
+Inspired by Charles Pierre Trémaux’s classical maze-solving algorithm.
