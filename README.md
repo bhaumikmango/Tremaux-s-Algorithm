@@ -86,7 +86,8 @@ Trémaux's algorithm is a guaranteed maze-solving method that:
 
 ## 📸 Screenshots
 
-
+Some screenshots of the demo 
+[Pic 1](Demo1.jpg)
 
 ## 🤝 Contributing
 
