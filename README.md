@@ -68,3 +68,17 @@ Trémaux's algorithm is a guaranteed maze-solving method that:
 
 4. Observe how Trémaux’s algorithm solves the maze step by step.
    
+
+## 🧩 Example Mazes
+
+    * Simple Cross
+    * Classic Maze 1 & 2
+    * Multiple Paths
+    * Dead End Trap
+    * Concentric Rings
+    * Zig Zag Path
+    * Checkerboard with Passages
+    * The Serpent’s Coil
+    * The Gridlock
+    * The Cloverleaf
+    * and more...
