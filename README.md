@@ -96,5 +96,6 @@ Feel free to fork this repo and submit a pull request.
 
 ## 👨‍💻 Author
 
-Developed by [Bhaumik Yadav](https://www.linkedin.com/in/theprofessional-bhaumik-yadav/) ✨
-Inspired by Charles Pierre Trémaux’s classical maze-solving algorithm.
+Developed by [Bhaumik Yadav](https://www.linkedin.com/in/theprofessional-bhaumik-yadav/) 
+
+✨ Inspired by Charles Pierre Trémaux’s classical maze-solving algorithm.
